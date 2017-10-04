@@ -52,7 +52,7 @@ buscar serine proteasa en sope y ver como se clasifica en cath
 
 diferencias las categorias entre scop y scath 
 
-5ptp tripsina bovina encontrar la trada catalitica, el numero de residuos 
+5ptp tripsina bovina encontrar la trada catalitica sitio activo, el numero de residuos 
 
 multiseq
 
@@ -62,5 +62,10 @@ multiseq
  entr tipsina bovina y proteasa bacteriana 1sba 
  
  2.6%  1sbt subtilician
- 23% citocromo c4
+ 23% citocromo c4 no se parece en nada a nadie 
+ 
+ el porcentaje de identidad es una MIERDA 
+ 
+ sobre 60% de identidad la probabilidad de tener la misma esteruvtura es altaa
+ relacon estructura funcion solo llega a un porcentaje de ijdentida donde la convergencia deja ñla caga
  
