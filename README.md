@@ -69,3 +69,4 @@ multiseq
  sobre 60% de identidad la probabilidad de tener la misma esteruvtura es altaa
  relacon estructura funcion solo llega a un porcentaje de ijdentida donde la convergencia deja ñla caga
  
+cacAAA
