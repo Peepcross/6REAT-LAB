@@ -70,3 +70,4 @@ multiseq
  relacon estructura funcion solo llega a un porcentaje de ijdentida donde la convergencia deja ñla caga
  
 cacAAA
+PROX CONTROL EVOLUCION ONVERGENTE Y DIVERGENTE
