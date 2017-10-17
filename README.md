@@ -150,3 +150,6 @@ multiseq
  
 cacAAA
 PROX CONTROL EVOLUCION ONVERGENTE Y DIVERGENTE
+
+
+secuencia canonica es el estandard, 
