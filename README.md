@@ -154,7 +154,11 @@ PROX CONTROL EVOLUCION ONVERGENTE Y DIVERGENTE
 
 secuencia canonica es el estandard, 
 
+codigo uniprot nombre , organismo funcion codigo supfam pfam, secuencia concocida, dominio descrito , residuos sitio act, y cualquier otro dato ql oe zii
 4hf4 3otj 1yph 1sgt 2sga 1sbt 
 1ags 1agp 
 
-el buscar la familia te puede dar la cagá de funcion 
+el buscar la familia te puede dar la cagá de funcion : misma familia aumenta la probabilidad de mismoa fucncion
+interproscan es un filtro
+
+
