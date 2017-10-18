@@ -161,4 +161,5 @@ codigo uniprot nombre , organismo funcion codigo supfam pfam, secuencia concocid
 el buscar la familia te puede dar la cagá de funcion : misma familia aumenta la probabilidad de mismoa fucncion
 interproscan es un filtro
 
+https://www.bioinformatics.org/sms2/ 
 
