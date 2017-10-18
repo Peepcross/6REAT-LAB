@@ -153,3 +153,8 @@ PROX CONTROL EVOLUCION ONVERGENTE Y DIVERGENTE
 
 
 secuencia canonica es el estandard, 
+
+4hf4 3otj 1yph 1sgt 2sga 1sbt 
+1ags 1agp 
+
+el buscar la familia te puede dar la cagá de funcion 
